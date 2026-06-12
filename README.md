@@ -1,2 +1,3 @@
 # Gurung-bio-test
-test bio
+test bio.io
+
